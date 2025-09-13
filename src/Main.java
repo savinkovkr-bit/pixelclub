@@ -6,5 +6,7 @@ public class Main {
         System.out.println(f);
         double f2 =  0.7777777777;
         System.out.println(f2);
+
+
     }
 }
